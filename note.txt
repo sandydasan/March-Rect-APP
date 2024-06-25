@@ -1,0 +1,18 @@
+reat
+------
+install-> npx create-react-app app-name 
+  
+       ->npm install -g create-react-app
+          create-react-app app-name 
+
+Project Structure
+---------------------
+to run the project ->npm start 
+
+README.MD -> so basic details about the project 
+package.json -> installed package- file used to manage lib and package- npm 
+package-lock.json ->to lock the installed version 
+gitignore -> to ignore some files
+
+node_modules ->to store copy's of all installed package and library
+public ->
